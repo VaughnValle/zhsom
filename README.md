@@ -18,7 +18,7 @@
 
 ## Mod Feature List
 
-This section lists the included sound improvements in the ZHSOM current build.
+This section lists the included sound improvements in the current build of ZHSOM.
 
 - Latest release: **1.0.0** (February 13, 2021)
 
