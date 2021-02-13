@@ -10,11 +10,16 @@
 [![ZHSOM](http://i3.ytimg.com/vi/768X81YCymM/maxresdefault.jpg "ZHSOM Header")](https://store.steampowered.com/app/1359090/Zero_Hour)
 
 ## Table of Contents 
+- [Installation](#installation)
 - [Mod Feature List](#mod-feature-list)
   - [Weapon SFX](#weapon-sfx)
   - [Grenade SFX](#grenade-sfx)
   - [Other Miscellaneous SFX](#other-miscellaneous-sfx)
-- [Installation](#installation)
+
+## Installation
+
+This guide is for the latest ZHSOM build **1.0.0 release and later**.
+
 
 ## Mod Feature List
 
