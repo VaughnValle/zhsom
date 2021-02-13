@@ -16,6 +16,7 @@
   - [Grenade SFX](#grenade-sfx)
   - [Other Miscellaneous SFX](#other-miscellaneous-sfx)
 
+<br />
 ## Installation
 
 This guide is for the latest ZHSOM build **1.0.0 release and later**.
@@ -28,6 +29,7 @@ This guide is for the latest ZHSOM build **1.0.0 release and later**.
 4. Overwrite the duplicate of the copied files.
 5. Enjoy! :)
 
+<br />
 ## Mod Feature List
 
 This section lists the included sound improvements in the current build of ZHSOM.
