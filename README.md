@@ -16,8 +16,6 @@
   - [Grenade SFX](#grenade-sfx)
   - [Other Miscellaneous SFX](#other-miscellaneous-sfx)
 
-<br />
-
 ## Installation
 
 This guide is for the latest ZHSOM build **1.0.0 release and later**.
