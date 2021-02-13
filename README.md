@@ -50,7 +50,8 @@ This section lists the included sound improvements in the current build of ZHSOM
 
 ### Grenade SFX
 - Improved frag grenade SFX
-- Improved flashband SFX
+- Improved flashbang SFX
+- Improved pin pull SFX
 
 ### Other Miscellaneous SFX
 - Improved firemode change SFX
