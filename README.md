@@ -7,7 +7,7 @@
   ZHSOM is an extensive sound overhaul mod for the game [Zero Hour](https://store.steampowered.com/app/1359090/Zero_Hour)
 </p>
 
-[![ZHSOM](https://raw.githubusercontent.com/VaughnValle/demo/master/ZERO%20HOUR%20SOUND%20OVERHAUL%20MOD.png "ZHSOM Header")](https://store.steampowered.com/app/1359090/Zero_Hour)
+[![ZHSOM](https://raw.githubusercontent.com/VaughnValle/demo/master/zhsom_header.png "ZHSOM Header")](https://store.steampowered.com/app/1359090/Zero_Hour)
 
 ## Table of Contents 
 - [Installation](#installation)
