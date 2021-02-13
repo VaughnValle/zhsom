@@ -22,7 +22,7 @@ This guide is for the latest ZHSOM build **1.0.0 release and later**.
 
 1. [Download this repository](https://github.com/VaughnValle/zhsom/archive/main.zip) as ZIP 
 2. Extract the downloaded ZIP file to a folder using WinRAR, 7Zip, or the like
-3. Copy `sounds.resource`, `sharedassets2.assets`, and `resources.assets`, to your Zero Hour/Zero Hour_Data folder.
+3. Copy `sounds.resource`, `sharedassets2.assets`, and `resources.assets`, to your ***Zero Hour/Zero Hour_Data*** folder.
 
 ## Mod Feature List
 
