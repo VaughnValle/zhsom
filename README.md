@@ -20,7 +20,7 @@
 
 This guide is for the latest ZHSOM build **1.0.0 release and later**.
 
-> Latest release: **1.0.0** (February 14, 2021)
+> Latest release: **1.0.0** (February 15, 2021)
 
 1. [Download this repository](https://github.com/VaughnValle/zhsom/archive/main.zip) as ZIP 
 2. Extract the downloaded ZIP file to a folder using WinRAR, 7Zip, or the like
@@ -38,18 +38,20 @@ This section lists the included sound improvements in the current build of ZHSOM
 - Improved Falcon SFX
 - Improved G17 SFX
 - Improved M4 SFX
-  - M4 chamber
-  - M4 mag eject and in
-  - M4 slap
+  - M4 Chamber SFX
+  - M4 Mag SFX
+  - M4 Slap SFX
 - Improved Mac-10 SFX
-  - Mac10 mag eject and in
-  - Mac10 charging handle
+  - Improved Mac10 Mag SFX
+  - Improved Mac10 charging handle SFX
 - Improved MP5 SFX
-  - MP5 bolt pull
-  - MP5 slap
+  - MP5 Bolt Pull SFX
+  - MP5 Slap SFX
 - Improved SCAR 17 SFX
 - Improved Shotgun SFX
 - Improved Rattler SFX
+  - Improved Rattler Charging Handle SFX
+  - Improved Rattler Mag SFX
 
 ### Grenade SFX
 - Improved frag grenade SFX
@@ -63,6 +65,5 @@ This section lists the included sound improvements in the current build of ZHSOM
   - Pistol mag eject and in
 - Improved rifle SFX
   - Rifle empty Shot
-  - Rifle mage eject and in
-  - Rifle reload empty
+  - Rifle mag SFX
 
