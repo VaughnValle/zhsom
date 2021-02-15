@@ -38,15 +38,15 @@ This section lists the included sound improvements in the current build of ZHSOM
 - Improved Falcon SFX
 - Improved G17 SFX
 - Improved M4 SFX
-  - M4 chamber
-  - M4 mag eject and in
-  - M4 slap
+  - M4 Chamber SFX
+  - M4 Mag SFX
+  - M4 Slap SFX
 - Improved Mac-10 SFX
-  - Mac10 mag eject and insertion
-  - Mac10 charging handle
+  - Improved Mac10 Mag SFX
+  - Improved Mac10 charging handle SFX
 - Improved MP5 SFX
-  - MP5 bolt pull
-  - MP5 slap
+  - MP5 Bolt Pull SFX
+  - MP5 Slap SFX
 - Improved SCAR 17 SFX
 - Improved Shotgun SFX
 - Improved Rattler SFX
@@ -65,6 +65,5 @@ This section lists the included sound improvements in the current build of ZHSOM
   - Pistol mag eject and in
 - Improved rifle SFX
   - Rifle empty Shot
-  - Rifle mage eject and in
-  - Rifle reload empty
+  - Rifle mag SFX
 
