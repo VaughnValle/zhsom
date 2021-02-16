@@ -20,7 +20,7 @@
 
 This guide is for the latest ZHSOM build **1.0.0 release and later**.
 
-> Latest release: **1.0.0** (February 15, 2021)
+> Latest release: **1.0.0** (February 16, 2021)
 
 1. [Download this repository](https://gitlab.com/VaughnValle/zhsom/-/archive/main/zhsom-main.zip) as ZIP 
 2. Extract the downloaded ZIP file to a folder using WinRAR, 7Zip, or the like
