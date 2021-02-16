@@ -31,6 +31,7 @@ This guide is for the latest ZHSOM build **1.0.0 release and later**.
 
 ---
 **NOTE:** To uninstall the mod, simply replace the `sharedassets2.assets` and `resources.assets` files to your backed up equivalents.
+
 ---
 
 ## Mod Feature List
