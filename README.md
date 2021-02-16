@@ -29,7 +29,7 @@ This guide is for the latest ZHSOM build **1.0.0 release and later**.
 5. Enjoy! :)
 
 ---
-**NOTE: ** To uninstall the mod:
+To **uninstall** the mod:
 - Delete the `sounds.resource`, `sharedassets2.assets`, and `resources.assets` files
 - Go to Steam, right click on Zero Hour in your library, go to Properties > Local files > Verify integrity of game files.
 
