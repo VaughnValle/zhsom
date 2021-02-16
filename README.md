@@ -29,7 +29,9 @@ This guide is for the latest ZHSOM build **1.0.0 release and later**.
 5. Copy and overwrite `sounds.resource`, `sharedassets2.assets` and `resources.assets` from the **mod** folder into your **Zero Hour_Data** folder.
 6. Enjoy! :)
 
-> To uninstall the mod, simply replace the `sharedassets2.assets` and `resources.assets` files to your backed up equivalents.
+---
+**NOTE:** To uninstall the mod, simply replace the `sharedassets2.assets` and `resources.assets` files to your backed up equivalents.
+---
 
 ## Mod Feature List
 
