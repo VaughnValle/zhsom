@@ -20,7 +20,7 @@
 
 This guide is for the latest ZHSOM build **1.0.0 release and later**.
 
-> Latest release: **1.0.0** (February 16, 2021)
+> Latest release: **1.1.1** (February 18, 2021)
 
 1. [Download the mod](https://github.com/VaughnValle/zhsom/releases/download/1.1.1/v1.1.1.zip)
 2. Extract the ZIP file to a folder using WinRAR, 7Zip, or the like (this will be our mod folder)
