@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/issues/VaughnValle/zhsom?style=for-the-badge">
 </p>
 
-## Table of Contents 
+### Table of Contents 
 - [Installation](#installation)
 - [Installation (beta builds)](#installation-for-beta-builds)
 - [Mod Feature List](#mod-feature-list)
