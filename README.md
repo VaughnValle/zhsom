@@ -11,7 +11,7 @@
 
 ## Table of Contents 
 - [Installation](#installation)
-- [Installation (beta builds)](#installation-(for-beta-builds))
+- [Installation (beta builds)](#installation-for-beta-builds)
 - [Mod Feature List](#mod-feature-list)
   - [Weapon SFX](#weapon-sfx)
   - [Grenade SFX](#grenade-sfx)
