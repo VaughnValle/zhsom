@@ -7,8 +7,6 @@
   ZHSOM is an extensive sound overhaul mod for the game [Zero Hour.](https://store.steampowered.com/app/1359090/Zero_Hour)
 </p>
 
-[![ZHSOM](https://raw.githubusercontent.com/VaughnValle/demo/master/zhsom_header.png "ZHSOM Header")](https://store.steampowered.com/app/1359090/Zero_Hour)
-
 ## Table of Contents 
 - [Installation](#installation)
 - [Installation (beta builds)](#installation-for-beta-builds)
@@ -16,6 +14,8 @@
   - [Weapon SFX](#weapon-sfx)
   - [Grenade SFX](#grenade-sfx)
   - [Other Miscellaneous SFX](#other-miscellaneous-sfx)
+
+[![ZHSOM](https://raw.githubusercontent.com/VaughnValle/demo/master/zhsom_header.png "ZHSOM Header")](https://store.steampowered.com/app/1359090/Zero_Hour)
 
 ## Installation
 
