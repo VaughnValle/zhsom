@@ -42,7 +42,7 @@ This installation guide is for ZHSOM **beta builds only**.
 
 > Latest beta release: **1.1.2-beta** (February 18, 2021)
 
-1. [Download the mod](https://github.com/VaughnValle/zhsom/releases/download/v1.1.2-beta/v1.1.2-beta.zip)
+1. [Download the beta build](https://github.com/VaughnValle/zhsom/releases/download/v1.1.2-beta/v1.1.2-beta.zip)
 2. Extract the ZIP file to a folder using WinRAR, 7Zip, or the like (this will be our mod folder)
 3. Navigate into your ***Zero Hour/Zero Hour_Data*** folder
 4. Copy and overwrite all contents from the **mod** folder into your **Zero Hour_Data** folder.
