@@ -40,9 +40,9 @@ To **uninstall** the mod:
 
 This installation guide is for ZHSOM **beta builds only**.
 
-> Latest release: **1.1.1** (February 18, 2021)
+> Latest beta release: **1.1.2-beta** (February 18, 2021)
 
-1. [Download the mod](https://github.com/VaughnValle/zhsom/releases/download/1.1.1/v1.1.1.zip)
+1. [Download the mod](https://github.com/VaughnValle/zhsom/releases/download/v1.1.2-beta/v1.1.2-beta.zip)
 2. Extract the ZIP file to a folder using WinRAR, 7Zip, or the like (this will be our mod folder)
 3. Navigate into your ***Zero Hour/Zero Hour_Data*** folder
 4. Copy and overwrite all contents from the **mod** folder into your **Zero Hour_Data** folder.
