@@ -21,7 +21,7 @@ This installation guide is for the latest ZHSOM build **1.0.0 release and later*
 
 > Latest release: **1.1.1** (February 18, 2021)
 
-1. [Download the mod](https://github.com/VaughnValle/zhsom/releases/download/1.1.1/v1.1.1.zip)
+1. [Download the mod](https://github.com/VaughnValle/zhsom/releases/download/v1.1.1/v1.1.1.zip)
 2. Extract the ZIP file to a folder using WinRAR, 7Zip, or the like (this will be our mod folder)
 3. Navigate into your ***Zero Hour/Zero Hour_Data*** folder
 4. Copy and overwrite `sounds.resource`, `sharedassets2.assets` and `resources.assets` from the **mod** folder into your **Zero Hour_Data** folder.
