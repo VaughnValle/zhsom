@@ -1,7 +1,8 @@
 <h1 align="center">Zero Hour Sound Overhaul Mod (ZHSOM) </h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/MAINTAINED-YES-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MAINTAINED-YES-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ISSUES-0-brightgreen?style=for-the-badge">
   <img src="https://img.shields.io/github/issues/VaughnValle/zhsom?style=for-the-badge">
 </p>
 
