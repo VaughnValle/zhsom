@@ -56,9 +56,7 @@ This section lists the included sound improvements in the current build of ZHSOM
 
 - Improved Kyanite SFX
 - Improved Falcon SFX
- -Improved Chamber / Mag SFX
 - Improved G17 SFX
- -Improved G17 Mag / Slide SFX
 - Improved M4 SFX
   - M4 Chamber SFX
   - M4 Mag SFX
