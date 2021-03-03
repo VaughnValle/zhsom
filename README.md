@@ -19,7 +19,7 @@
 
 ## Installation
 
-This installation guide is for the latest ZHSOM build **1.0.0 release and later**.
+This installation guide is for the latest ZHSOM build **1.2.0 release and later**.
 
 > Latest release: **1.2.0** (March 2, 2021)
 
