@@ -34,20 +34,6 @@ To **uninstall** the mod:
 - Delete the `sounds.resource`, `sharedassets2.assets`, and `resources.assets` files
 - Go to Steam, right click on Zero Hour in your library, go to Properties > Local files > Verify integrity of game files.
 
----
-
-## Installation (for beta builds)
-
-This installation guide is for ZHSOM **beta builds only**.
-
-> Latest beta release: **1.1.2-beta** (February 18, 2021)
-
-1. [Download the beta build](https://github.com/VaughnValle/zhsom/releases/download/v1.1.2-beta/v1.1.2-beta.zip)
-2. Extract the ZIP file to a folder using WinRAR, 7Zip, or the like (this will be our mod folder)
-3. Navigate into your ***Zero Hour/Zero Hour_Data*** folder
-4. Copy and overwrite all contents from the **mod** folder into your **Zero Hour_Data** folder.
-5. Enjoy the beta! Make sure to [report issues](https://github.com/VaughnValle/zhsom/issues) :)
-
 ## Mod Feature List
 
 This section lists the included sound improvements in the current build of ZHSOM.
